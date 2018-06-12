@@ -1,0 +1,9 @@
+name: MLGRush
+main: JavaPluginFX\MLGRush
+version: 1.0.0
+api: 3.0.0-ALPHA12
+author: JavaPluginFX
+commands:
+  MLGRush:
+    description: MLGRush Command
+    aliases: [rush]
